@@ -1,0 +1,19 @@
+{
+  "name": "neuro-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hyposlasher",
+  "license": "ISC",
+  "dependencies": {
+    "get-pixels": "^3.3.0",
+    "gm": "^1.23.0",
+    "jsonfile": "^3.0.0",
+    "junk": "^2.1.0",
+    "png-js": "^0.1.1",
+    "promise": "^7.1.1"
+  }
+}
